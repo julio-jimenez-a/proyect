@@ -1,0 +1,15 @@
+Author: julio
+Proyecto: Consultas Medicas
+Fecha de Lanzamiento: 2019-06-25
+
+
+1.- Copiar y descomprimir el archivo en la carpeta c:\xampp\htdocs, al final tendras una carpeta llamada “medic”, a la cual accederas desde el navegador como -> http://127.0.0.1/medic
+2.- Buscar el archivo schema.sql en medic/schema.sql, una vez localizado copiar y pegar el contenido en una ventana de MySQL, PHPMyAdmin o MySQL WorkBench
+3.- En caso de ser necesario modificar el archivo C:\xampp\htdocs\lb-admin\core\controller\Database.php para los datos asociados al acceso a la base de datos.
+
+Login : http://localhost/medic/
+Usuario: admin
+Password: admin
+
+Dudas y sugerencias a mi direccion email julio.estuardo.jimenez@gmail.com
+Powered By Julio Jimenez
